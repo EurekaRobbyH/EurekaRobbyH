@@ -39,7 +39,7 @@ Software Engineer with **2 years of production experience** specializing in **fr
 ## 📌 Featured Work & Background
 - **[NetPulse Telemetry Dashboard](https://github.com/EurekaRobbyH/netpulse-telemetry-dashboard):** Production-grade infrastructure observability and SLA monitoring platform tracking CPU, RAM, Disk, and Disk I/O across 24-hour trends, period-over-period SLA deltas (`useMemo`), and automated multi-tab XLSX/CSV exports (`xlsx`, `Blob`). Features complete PRD, TRD, AFD, and BSD documentation with live UI screenshots.
 - **Telemetry & ETL Automation:** Built Python pipelines (`pymysql`, `openpyxl`, `clickhouse_connect`) verifying Prometheus/Grafana metrics and automating cross-database reports.
-- **[MeatMind](https://github.com/EurekaRobbyH/MeatMind):** Machine learning-assisted mobile application developed as the Capstone Project for **Bangkit Academy (Google, GoTo, Traveloka)** to classify meat freshness in real time.
+- **Bangkit Academy Capstone Project:** Developed a machine learning-assisted mobile application concept to classify food freshness in real time as the culminating capstone project for **Bangkit Academy (Google, GoTo, Traveloka)**.
 - **Infrastructure:** Hands-on experience deploying and operating 24/7 Blockchain Validator Nodes strictly via Linux CLI, SSH, and resource monitoring scripts.
 
 ---
